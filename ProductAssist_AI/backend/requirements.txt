@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+google-generativeai
+chromadb
+sentence-transformers
+pymupdf
+python-jose
+passlib[bcrypt]
