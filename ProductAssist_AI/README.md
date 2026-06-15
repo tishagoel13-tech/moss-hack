@@ -153,10 +153,10 @@ http://localhost:8000
 
 # Demo Video
 
-Demo Video Link: [Demo Video](https://drive.google.com/file/d/1xUL1mBkIHQMsFBwLe4ms6vvwVU5E7cLa/view?usp=sharing)
+Demo Video Link: [Demo video](https://drive.google.com/file/d/1xUL1mBkIHQMsFBwLe4ms6vvwVU5E7cLa/view?usp=sharing)
 
 ```text
-Paste your demo video link here
+[Paste your demo video link here](https://drive.google.com/file/d/1xUL1mBkIHQMsFBwLe4ms6vvwVU5E7cLa/view?usp=sharing)
 ```
 
 ---
